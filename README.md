@@ -7,6 +7,7 @@
 Installation:
 
 ```sh
+$ go get -u github.com/ajinasokan/goinit
 $ go install github.com/ajinasokan/goinit
 ```
 
